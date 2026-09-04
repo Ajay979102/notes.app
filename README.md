@@ -49,4 +49,4 @@ This system can be useful for:
 
 The goal of this project is to provide a **simple, accessible, and lightweight way to maintain daily records**, where users can access their information anytime and from any device through a single link.
 ## LINK---------------------------------------------------------------------
-**{#https://literate-desk.lovable.app}https://literate-desk.lovable.app/
+**{https://literate-desk.lovable.app/}
